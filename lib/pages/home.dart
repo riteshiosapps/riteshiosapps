@@ -1,9 +1,6 @@
 import 'package:datapersistence/dbhelper.dart';
 import 'package:datapersistence/model/course.dart';
 import 'package:datapersistence/pages/coursedetails.dart';
-import 'package:datapersistence/pages/courseupdate.dart';
-import 'package:datapersistence/pages/newcourse.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
